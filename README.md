@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Web Development course by JA
 
 You can use the [editor on GitHub](https://github.com/junaidtheengineer/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
