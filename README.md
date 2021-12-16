@@ -1,4 +1,5 @@
-## Welcome to the Web Development course by JA
+## Welcome to the Web Development
+## course by JA
 
 You can use the [editor on GitHub](https://github.com/junaidtheengineer/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,7 +21,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+3. Day one
+4. Day two
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
